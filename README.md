@@ -5,7 +5,7 @@
 ![Tech Stack](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript)
-![Groq]([https://img.shields.io/badge/Claude-API-cc785c?logo=anthropic](https://avatars.githubusercontent.com/u/7464134?s=48&v=4))
+[![Powered by Groq](https://raw.githubusercontent.com)](https://groq.com)
 
 ---
 
